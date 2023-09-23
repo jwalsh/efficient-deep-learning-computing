@@ -1,0 +1,6 @@
+* Efficient Deep Learning Computing
+This repository contains the notes for the course Efficient Deep Learning Computing which covers the topics like model compression, pruning, quantization, neural architecture search, distributed training, data/model parallelism, gradient compression, and on-device fine-tuning. It also introduces application-specific acceleration techniques for large language models, diffusion models, video recognition, and point cloud. The course also covers topics about quantum machine learning. 
+** References
+- https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB
+- https://efficientml.ai/
+- https://songhan.mit.edu/teaching/
